@@ -179,11 +179,15 @@ Device Categories unlock advanced lifecycle control
 
 ## 🔗 Related Projects
 Endpoint Automation Platform (coming soon)
+
 Intune Remediation Scripts (coming soon)
+
 AI Log Analysis Toolkit (coming soon)
 
 ## 👤 Author
 
 Billy Gordon
+
 Endpoint Automation Engineer
+
 Focused on scalable endpoint management, automation, and AI-driven operations
