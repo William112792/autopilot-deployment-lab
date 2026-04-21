@@ -142,12 +142,12 @@ Assign Group Tag
 Device joins correct dynamic group
 Policies + apps apply automatically
 
-🔄 End-to-End Flow
+## 🔄 End-to-End Flow
 Device Imported → Group Tag Assigned → Dynamic Group Membership → 
 Deployment Profile Assigned → OOBE → ESP → Apps/Policies Applied → 
 Device Ready
 
-🧠 Design Philosophy
+## 🧠 Design Philosophy
 This lab is built around:
 
 Automation-first deployment
@@ -155,7 +155,7 @@ Dynamic grouping over static assignment
 Separation of concerns (apps, policies, identity)
 Scalable naming and tagging strategy
 
-🛠️ Planned Enhancements (TO DO)
+## 🛠️ Planned Enhancements (TO DO)
 PowerShell scripts for:
 Group Tag assignment
 Device import automation
@@ -168,19 +168,19 @@ Integration with:
 Microsoft Graph API
 CI/CD-style deployment validation
 
-📌 Key Takeaways
+## 📌 Key Takeaways
 Group Tags are the backbone of scalable Autopilot
 Dynamic groups eliminate manual targeting
 ESP should enforce only what truly matters
 Separate blocking vs non-blocking apps strategically
 Device Categories unlock advanced lifecycle control
 
-🔗 Related Projects
+## 🔗 Related Projects
 Endpoint Automation Platform (coming soon)
 Intune Remediation Scripts (coming soon)
 AI Log Analysis Toolkit (coming soon)
 
-👤 Author
+## 👤 Author
 
 Billy Gordon
 Endpoint Automation Engineer
