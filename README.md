@@ -61,7 +61,9 @@ Drives automation, grouping, and policy assignment
 ### Naming Convention Examples
 
 COMPANY_Department_HybridJoin
+
 COMPANY_Department_EntraJoin
+
 COMPANY_LOCATION_SelfDeploy
 
 
