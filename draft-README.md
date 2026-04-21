@@ -48,3 +48,10 @@ Define Group Tag on Windows Autopilot Devices
 - Good time to define Device Name (With in best faith override device name for Entra Joined devices)
 
 (TO DO) Repository that has example scripts to identify each of these sections as a list and set specific items like Group Tag via powershell script.
+
+PS: Hash is obtainable via Diagnostic Logs and identifiable via powershell with powershell:
+md c:\HWID
+Set-Location c:\HWID
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Unrestricted -Force
+Install-Script -Name Get-WindowsAutopilotInfo -Force
+Get-WindowsAutopilotInfo.ps1 -OutputFile AutopilotHWID.csv
