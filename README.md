@@ -74,7 +74,7 @@ Automatically group devices based on Group Tag
 
 ### Example Rule
 ```powershell
-(device.devicePhysicalIds -any (_ -eq "[OrderID]:COMPANY_Department_HybridJoin"))
+(device.devicePhysicalIds -any (_ -eq "[OrderID]:COMPANY_Department_HybridJoin"))```
 
 ## 5. Deployment Profiles
 Purpose: Controls Out-of-Box Experience (OOBE) and enrollment behavior
