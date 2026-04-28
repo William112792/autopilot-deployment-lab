@@ -1,5 +1,6 @@
-✅ README.md — autopilot-deployment-lab
 # 🚀 Windows Autopilot Deployment Lab
+
+![Autopilot](https://github.com/William112792/autopilot-deployment-lab/blob/main/diagrams/autopilot-end-to-end.png?raw=true)
 
 This repository documents a structured, real-world approach to building and scaling **Windows Autopilot deployments** using Microsoft Intune.
 
